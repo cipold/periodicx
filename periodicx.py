@@ -9,7 +9,7 @@ a function periodically with high precision and absolute timing.
 __all__ = ['periodicx']
 __version__ = '1.0'
 __author__ = 'Michael Cipold'
-__email__ = "github@cipold.de"
+__email__ = 'github@cipold.de'
 __license__ = 'MPL-2.0'
 
 import sched
