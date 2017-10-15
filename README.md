@@ -4,7 +4,7 @@ This module exports a single function which allows the user to call a function p
 ## Installation
 Using `git clone`
 ```bash
-git clone https://github.com/cipold/periodicx
+git clone https://github.com/cipold/periodicx.git
 cd periodicx
 python setup.py install
 ```
